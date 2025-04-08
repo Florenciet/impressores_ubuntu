@@ -59,6 +59,8 @@
 ![image](https://github.com/user-attachments/assets/7eabdcf5-f70a-4a07-9e66-983606ed0e2d)
 ![image](https://github.com/user-attachments/assets/f43df543-1947-4c5a-be4e-a4eb6fb5a07a)
 ![image](https://github.com/user-attachments/assets/60adb400-972e-48da-af63-c8bbe86b7b12)
+![image](https://github.com/user-attachments/assets/2d7c42bc-a2b7-4756-8eae-e951fbb148ec)
+![image](https://github.com/user-attachments/assets/d1f46ae6-2f4f-495a-b490-0739a2795205)
 
 1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
