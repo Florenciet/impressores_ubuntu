@@ -6,7 +6,7 @@
 
 *COMENÇEM*
 
-1. Primer de tot anirem a *localhost:631* i allà crearem una impressora seguint els passos següents.
+1. Primer de tot anirem a *localhost:631* obert des de FireFox i allà crearem una impressora seguint els passos següents.
 
 2. Fem click al apartat de *ADMINISTRATION*
 
