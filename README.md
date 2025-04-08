@@ -1,6 +1,6 @@
-# impressores_ubuntu
-
 # De UBUNTU a WINDOWS
+
+### Creació impressora Ubuntu
 
 *IMPORTANT* En cas de no tenir instal·lat el Samba o el CUPS s'ha de fer un update i instal·lar els programes.
 
@@ -40,10 +40,25 @@
 
 ![image](https://github.com/user-attachments/assets/cefe931f-2b74-4afe-899d-a5414725cc86)
 
+10. Connexió de la impressora amb windows
+
+![image](https://github.com/user-attachments/assets/1262b0b9-c6d3-4ac9-ad73-f7c00c35c9cc)
+![image](https://github.com/user-attachments/assets/46540a17-2a20-4284-9bef-364159b6164f)
+![image](https://github.com/user-attachments/assets/47067ae7-bfd8-4cb3-81f5-14addcf85aeb)
+![image](https://github.com/user-attachments/assets/39c6e69d-433c-4b6b-9d0f-32cacf8f9693)
+![image](https://github.com/user-attachments/assets/babd18eb-d3f6-4c9c-bab0-72bb24fccdd1)
+
+
 # De WINDOWS a UBUNTU
 
-### Creació de la impressora 
+### Creació de la impressora a Windows
 
+![image](https://github.com/user-attachments/assets/3d447c29-6c57-4ea5-aa1d-414fabe083a2)
+![image](https://github.com/user-attachments/assets/dcc75b43-c2f9-4958-a4e7-e3139094d9e2)
+![image](https://github.com/user-attachments/assets/d7bc9990-f5e1-4d8e-818c-b6d480b1e4ca)
+![image](https://github.com/user-attachments/assets/7eabdcf5-f70a-4a07-9e66-983606ed0e2d)
+![image](https://github.com/user-attachments/assets/f43df543-1947-4c5a-be4e-a4eb6fb5a07a)
+![image](https://github.com/user-attachments/assets/60adb400-972e-48da-af63-c8bbe86b7b12)
 
 1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
