@@ -42,13 +42,6 @@
 
 10. Connexió de la impressora amb windows
 
-![image](https://github.com/user-attachments/assets/1262b0b9-c6d3-4ac9-ad73-f7c00c35c9cc)
-![image](https://github.com/user-attachments/assets/46540a17-2a20-4284-9bef-364159b6164f)
-![image](https://github.com/user-attachments/assets/47067ae7-bfd8-4cb3-81f5-14addcf85aeb)
-![image](https://github.com/user-attachments/assets/39c6e69d-433c-4b6b-9d0f-32cacf8f9693)
-![image](https://github.com/user-attachments/assets/babd18eb-d3f6-4c9c-bab0-72bb24fccdd1)
-
-
 # De WINDOWS a UBUNTU
 
 ### Creació de la impressora a Windows
