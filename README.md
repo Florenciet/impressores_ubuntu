@@ -53,14 +53,6 @@
 
 ### Creació de la impressora a Windows
 
-![image](https://github.com/user-attachments/assets/16ed60b6-fe0c-48fe-ae14-1cc0fb96fcbe)
-![image](https://github.com/user-attachments/assets/77f128db-b512-474f-adab-95132ad4ba81)
-![image](https://github.com/user-attachments/assets/6c3d1f86-bb58-461d-a6f3-d7a9de33c64a)
-![image](https://github.com/user-attachments/assets/67e4fcc8-b195-46ba-8803-56cbbf3999d2)
-![image](https://github.com/user-attachments/assets/b8e34a09-781f-4c60-825e-e761f1a01a97)
-![image](https://github.com/user-attachments/assets/9ab0c7a8-0174-48cf-a722-dfa8bc7feed7)
-![image](https://github.com/user-attachments/assets/a120c2a7-5eaa-4701-9c44-b0e15624cd69)
-
 1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
 ![image](https://github.com/user-attachments/assets/f15b11ca-0d58-4b33-8c6c-b624b94a2503)
