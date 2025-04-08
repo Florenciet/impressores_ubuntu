@@ -23,3 +23,54 @@
 5. Començem amb la creació de la impressora, en aquest cas volem la PDF Creator.
 
 ![image](https://github.com/user-attachments/assets/37ef5090-9913-4d1d-8bdb-d4c22cba0db7)
+
+6. Posem el nom que volguem a la impressora, nosaltres hem posat *imp_comp* i SOBRETOT marquem la casella de "Share this printer".
+
+![image](https://github.com/user-attachments/assets/a8705cdf-3d54-46e0-946e-5710c1c9f5c6)
+
+7. Afegim el controlador *Generic*.
+
+![image](https://github.com/user-attachments/assets/1f5ad29c-e548-4ffe-8416-aa79796f55c5)
+
+8. Amb el model *Generic PDF Printer*.
+
+![image](https://github.com/user-attachments/assets/fa67f794-146e-45e8-b200-94bde963323d)
+
+9. Li donem a "Add printer" i ja queda afegida la impressora.
+
+![image](https://github.com/user-attachments/assets/cefe931f-2b74-4afe-899d-a5414725cc86)
+
+# De WINDOWS a UBUNTU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
