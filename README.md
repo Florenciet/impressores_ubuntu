@@ -42,12 +42,29 @@
 
 # De WINDOWS a UBUNTU
 
+1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
+![image](https://github.com/user-attachments/assets/f15b11ca-0d58-4b33-8c6c-b624b94a2503)
 
+2. Posem la comanda *smb://192.168.3.10/* i fem click a desbloqueja.
 
+![image](https://github.com/user-attachments/assets/8783955e-4445-457a-9352-e4d18307f6ad)
 
+3. Posem l'usuari administrador, en aquest cas l'isard.
 
+![image](https://github.com/user-attachments/assets/f7b39da1-7d32-4285-ba67-45cc2faa068b)
 
+4. Seleccionem l'impressora a la que volem accedir, la nostra és *PrinterW*.
+
+![image](https://github.com/user-attachments/assets/ae0a5a3e-2b26-4328-9ab9-bb4a4722afe5)
+
+5. Amb els seus controladors, que nosaltres hem posat, són *Generic* i *Generic Braille embosser,1.0*
+
+![image](https://github.com/user-attachments/assets/71d90da4-1e36-43d7-b88f-6d108321892c)
+
+6. La impressora queda afegida correctament!!
+
+![image](https://github.com/user-attachments/assets/fff6f4d8-2c37-4739-a5b6-cb9e6ff5fe0c)
 
 
 
