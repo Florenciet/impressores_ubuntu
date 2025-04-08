@@ -42,6 +42,9 @@
 
 # De WINDOWS a UBUNTU
 
+### Creació de la impressora 
+
+
 1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
 ![image](https://github.com/user-attachments/assets/f15b11ca-0d58-4b33-8c6c-b624b94a2503)
