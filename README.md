@@ -42,16 +42,17 @@
 
 10. Connexió de la impressora amb windows
 
-# De WINDOWS a UBUNTU
-
-### Creació de la impressora a Windows
-
 ![image](https://github.com/user-attachments/assets/3d447c29-6c57-4ea5-aa1d-414fabe083a2)
 ![image](https://github.com/user-attachments/assets/dcc75b43-c2f9-4958-a4e7-e3139094d9e2)
 ![image](https://github.com/user-attachments/assets/d7bc9990-f5e1-4d8e-818c-b6d480b1e4ca)
 ![image](https://github.com/user-attachments/assets/7eabdcf5-f70a-4a07-9e66-983606ed0e2d)
 ![image](https://github.com/user-attachments/assets/f43df543-1947-4c5a-be4e-a4eb6fb5a07a)
 ![image](https://github.com/user-attachments/assets/60adb400-972e-48da-af63-c8bbe86b7b12)
+
+
+# De WINDOWS a UBUNTU
+
+### Creació de la impressora a Windows
 
 1. Obrim la configuració de Ubuntu i anem a l'apartat d'impressores, fem click al botó de *Afegeix una impressora*.
 
